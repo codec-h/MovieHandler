@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8pgkfbZa8x2VwjKFYuuDnlXOhp3dTfypV4NxGKWoRiZu0cXuzfg/53raS7U7dHyBboJ6vPxNcqI48Li4wwXsA==",
+  "success": true,
+  "projectFilePath": "D:\\Repository\\MovieHandler\\MovieHandler.Repository\\MovieHandler.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\splc2001\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
